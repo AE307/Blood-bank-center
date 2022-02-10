@@ -1,0 +1,2 @@
+CairoCentralBloodBank yes no no AE
+Alexandria, Bakos Blood Bank yes no no MA
